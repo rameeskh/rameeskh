@@ -4,7 +4,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🏫 Bachelor’s degree in Mechanical Engineering from Rajiv Gandhi Institute of Technology, Kottayam, Kerala, India.
+
 ✉️  You can shoot me an email at khramees.ramees@gmail.com! I'll try to respond as soon as I can.
+
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1BgSBSUudcXmNsGku5YQWiDV4DDPjYE52/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
