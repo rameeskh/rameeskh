@@ -4,11 +4,14 @@ Hi! Great to see you here!
 Profile Views
 
 About Me ?
+
 🏫 Bachelor’s degree in Mechanical Engineering from Rajiv Gandhi Institute of Technology, Kottayam, Kerala, India.
 
 ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, Java.
 
-🔭 Technology Stack
+
+
+##🔭 Technology Stack
 
 Languages:
 
