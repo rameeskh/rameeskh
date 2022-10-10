@@ -38,7 +38,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:khramees.ramees@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ramees-k-h-95188b1b1/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:deepshikhayadav2000@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/deepshikhayadav2?tab=topactivity)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/18833908)
 </p>
 
