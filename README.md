@@ -1,5 +1,5 @@
 
-<!-- ## 👋 &nbsp;Hey there! I'm RAMEES K H -->
+## 👋 &nbsp;Hey there! I'm RAMEES K H
 
 ### 👨🏻‍💻 &nbsp;About Me
 
